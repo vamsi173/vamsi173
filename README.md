@@ -122,7 +122,7 @@ class VamsiYerra:
 
 <div align="center">
 
-| 🚀 5+ AI/ML Projects | 🎯 85% Model Accuracy | ⏱️ 30% Effort Reduced | 🎓 CGPA 8.2/10 |
+| 🚀 5+ AI/ML Projects | 🎯 85% Model Accuracy | ⏱️ 30% Effort Reduced | 🎓 CGPA 8.0/10 |
 |:---:|:---:|:---:|:---:|
 
 </div>

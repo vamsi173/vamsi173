@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,25:8B5CF6,50:FF6B9D,75:43E97B,100:38F9D7&height=220&section=header&text=Vamsi%20Yerra&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20App%20Developer&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=43E97B&center=true&vCenter=true&width=800&lines=Data+Scientist+%26+ML+Engineer+%F0%9F%A7%A0;Full+Stack+%7C+Django+%7C+Flask+%7C+MERN;OpenCV+%7C+LLMs+%7C+Hugging+Face+%7C+OpenAI+API;Power+BI+%7C+AWS+%7C+GCP+%7C+Docker;ISRO+Certified+%7C+Infosys+Springboard+%7C+CGPA+8.2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=43E97B&center=true&vCenter=true&width=800&lines=Data+Scientist+%26+ML+Engineer+%F0%9F%A7%A0;Full+Stack+%7C+Django+%7C+Flask+%7C+MERN;OpenCV+%7C+LLMs+%7C+Hugging+Face+%7C+OpenAI+API;Power+BI+%7C+AWS+%7C+GCP+%7C+Docker;ISRO+Certified+%7C+Infosys+Springboard+%7C+CGPA+8.0)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsiyerra77/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vamsi173)
